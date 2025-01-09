@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @cody-visscher
 - 👀 I’m interested in software engineering and cybersecurity
-- 🌱 I’m currently learning css, html, java, javascript, and other programming/scripting languages 
 - I am currently a student in the School of Computing at Grand Valley State University.
 
 <!---
